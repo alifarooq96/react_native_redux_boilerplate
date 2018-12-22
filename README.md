@@ -9,3 +9,6 @@ Start all React Native (with Redux) projects using this boiler plate.
 4. Run `react-native eject`.
 5. Run `react-native link`.
 6. Replace name with app name in [package.json](package.json).
+
+## Navigation
+https://github.com/wix/react-native-navigation
